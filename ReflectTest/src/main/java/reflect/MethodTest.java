@@ -43,5 +43,6 @@ public class MethodTest {
             System.out.println("\n" +s   + " " + name);
         }
         System.out.println("version1");
+        System.out.println("add a master");
     }
 }
